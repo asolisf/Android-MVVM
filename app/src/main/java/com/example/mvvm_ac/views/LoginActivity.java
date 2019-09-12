@@ -19,7 +19,7 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         //ActivityLoginBinding is generated after build project
-        //and
+        //and set layout and view model
         ActivityLoginBinding activityLoginBinding
                 = DataBindingUtil.setContentView(this,R.layout.activity_login);
         activityLoginBinding.setViewModel(new LoginViewModel());
