@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM with Architecture components</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_failed">Email or password have incorrect format! Try again, please.</string>
+</resources>
