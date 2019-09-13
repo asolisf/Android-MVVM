@@ -1,7 +1,7 @@
 # Android MVVM
 MVVM with architecture components.
 
-Topics
+**Topics**
 
 * MVVM
 * Architecture
